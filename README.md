@@ -1,16 +1,14 @@
-## Hi there 👋
+# MahmoudiTech Portfolio
 
-<!--
-**Mahmoudi-Tech/Mahmoudi-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+موقع معرض أعمال شخصي ثابت (HTML/CSS) باللغة العربية.
 
-Here are some ideas to get you started:
+## النشر على GitHub Pages
+1. افتح مستودع `Mahmoudi-Tech/Mahmoudi-Tech`.
+2. اختر **Add file → Upload files**.
+3. ارفع `index.html` إلى المجلد الرئيسي (Root).
+4. اضغط **Commit changes**.
+5. من **Settings → Pages** اختر **Deploy from a branch**، ثم `main` و`/(root)`، واضغط Save.
+6. انتظر اكتمال النشر ثم افتح:
+   https://mahmoudi-tech.github.io/Mahmoudi-Tech/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ملاحظة: رابط `witcherstore.wasmer.app` وُضع تحت مشروع «محل إندومي» حسب ترتيب الروابط المرسل. عدّل الاسم أو الرابط إذا كان المقصود مشروعًا آخر.
