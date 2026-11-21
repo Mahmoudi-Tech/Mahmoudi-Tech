@@ -9,6 +9,6 @@
 4. اضغط **Commit changes**.
 5. من **Settings → Pages** اختر **Deploy from a branch**، ثم `main` و`/(root)`، واضغط Save.
 6. انتظر اكتمال النشر ثم افتح:
-   https://mahmoudi-tech.github.io/Mahmoudi-Tech/
+[   https://mahmoudi-tech.github.io/Mahmoudi-Tech/](http://mahmouditech.is-a.dev/)
 
-ملاحظة: رابط `witcherstore.wasmer.app` وُضع تحت مشروع «محل إندومي» حسب ترتيب الروابط المرسل. عدّل الاسم أو الرابط إذا كان المقصود مشروعًا آخر.
+ملاحظة: رابط `[witcherstore.wasmer.app](http://mahmouditech.is-a.dev/)` وُضع تحت مشروع «محل إندومي» حسب ترتيب الروابط المرسل. عدّل الاسم أو الرابط إذا كان المقصود مشروعًا آخر.
